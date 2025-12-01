@@ -1,0 +1,19 @@
+# Node, React, or static site generators
+node_modules/
+dist/
+build/
+.cache/
+.next/
+
+# Jekyll
+_site/
+
+# Logs and temp files
+npm-debug.log
+*.log
+*.tmp
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+*~
