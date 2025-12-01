@@ -14,6 +14,10 @@ _TODO: Fill in with with web stack (e.g., Jekyll, React, Astro, etc.)_
 
 Report issues or submit improvements via pull request. See [docs](https://github.com/lemonlime-linux/docs).
 
+## Project Roadmap
+
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
+
 ## License
 
 [MIT License](LICENSE)
